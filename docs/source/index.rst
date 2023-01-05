@@ -1,9 +1,9 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to RulesFinder's documentation!
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+**RulesFinder** (or "Rufi") is a Drupal distribution that helps organizations and communities 
+to develop contracts or agreements together.
+You can install it from `Drupal.org <https://www.drupal.org/project/rules_finder/>`_ in your own webspace .
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
