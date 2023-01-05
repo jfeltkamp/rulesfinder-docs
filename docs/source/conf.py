@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'RulesFinder'
-copyright = '2022, Joachim Feltkamp'
+copyright = '2023, Joachim Feltkamp'
 author = 'Joachim Feltkamp'
 
 release = '0.1'
