@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RulesFinder'
+copyright = '2022, Joachim Feltkamp'
+author = 'Joachim Feltkamp'
 
 release = '0.1'
 version = '0.1.0'
