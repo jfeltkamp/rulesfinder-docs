@@ -1,1 +1,37 @@
-site_name: Rulesfinder
+site_name: 'RuFi - the RulesFinder'
+nav:
+  - 'Home': 'index.md'
+  - 'Arbeiten mit RuFi':
+      - 'Projekt-Planung': 'work_with_rufi/project-plan.md'
+  - 'Inhalte erstellen':
+      - 'Allgemeines': 'write_content/general-edit-texts.md'
+      - 'Probleme': 'write_content/probleme.md'
+      - 'Regeln': 'write_content/regeln.md'
+      - 'Argumente': 'write_content/argumente.md'
+
+theme:
+  name: material
+  locale: de
+  logo: img/logo.svg
+  features:
+    - navigation.tabs
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra_css: [extra.css]
+markdown_extensions:
+  - admonition
+
+
+
