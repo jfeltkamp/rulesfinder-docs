@@ -9,7 +9,7 @@ Eine Problembeschreibung muss folgende Formelemente enthalten:
 
 !!! type "Beispiel A"
 
-    Viele Mitarbeiter des Unternehmens (Adressat) können sich das Essen in der Kantine nicht leisten (Erscheinung), sind deshalb regelmäßig schlecht verpflegt (Ursache), was dazu führt, dass sie bei der Arbeit erschöpft und unkonzentriert sind (Folgen).
+    Viele Mitarbeiter des Unternehmens (Betroffene) können sich das Essen in der Kantine nicht leisten (Erscheinung), sind deshalb regelmäßig schlecht verpflegt (Ursache), was dazu führt, dass sie bei der Arbeit erschöpft und unkonzentriert sind (Folgen).
 
 ## Stil
 Ein Problem sollte immer knapp, jedoch dem problematischen Sachverhalt angemessen beschrieben werden. Was „angemessen“ bezogen auf die Textlänge heißt, kann stark variieren. Manchmal reicht ein längerer Satz, um ein Problem für alle Beteiligten klar und deutlich zu umreißen, in anderen Fällen ist eine genauere Problemanalyse erforderlich, um dasselbe zu erreichen. Die Angemessenheit bezieht sich in der Regel auf die Komplexität der Ausgangssituation.

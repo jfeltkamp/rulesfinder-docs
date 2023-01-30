@@ -1,20 +1,27 @@
 site_name: 'RuFi - the RulesFinder'
 nav:
   - 'Home': 'index.md'
-  - 'Arbeiten mit RuFi':
+  - 'Mit RuFi starten':
       - 'Projekt-Planung': 'work_with_rufi/project-plan.md'
+      - 'Reguläres arbeiten': 'work_with_rufi/daily-work.md'
   - 'Inhalte erstellen':
       - 'Allgemeines': 'write_content/general-edit-texts.md'
       - 'Probleme': 'write_content/probleme.md'
       - 'Regeln': 'write_content/regeln.md'
       - 'Argumente': 'write_content/argumente.md'
+      - 'Pro/Contra Argumentation': 'write_content/pro-contra-argumentation.md'
 
+copyright: "Copyright &copy; 2022 - 2023 Joachim Feltkamp"
+extra:
+  generator: false
 theme:
   name: material
   locale: de
   logo: img/logo.svg
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
