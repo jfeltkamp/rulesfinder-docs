@@ -1,9 +1,12 @@
 site_name: 'RuFi - the RulesFinder'
 nav:
-  - 'Home': 'index.md'
+  - 'Home':
+      - 'Was ist RuFi': 'index.md'
+      - 'Get RuFi': 'get-rufi/install-rufi.md'
   - 'Mit RuFi starten':
       - 'Projekt-Planung': 'work_with_rufi/project-plan.md'
-      - 'Reguläres arbeiten': 'work_with_rufi/daily-work.md'
+      - 'Bedienungsanleitung': 'work_with_rufi/operation-manual.md'
+      - 'Vorgehensweise': 'work_with_rufi/get-involved.md'
   - 'Inhalte erstellen':
       - 'Allgemeines': 'write_content/general-edit-texts.md'
       - 'Probleme': 'write_content/probleme.md'
@@ -11,7 +14,7 @@ nav:
       - 'Argumente': 'write_content/argumente.md'
       - 'Pro/Contra Argumentation': 'write_content/pro-contra-argumentation.md'
 
-copyright: "Copyright &copy; 2022 - 2023 Joachim Feltkamp"
+copyright: "Copyright &copy; 2022-2023 Joachim Feltkamp"
 extra:
   generator: false
 theme:

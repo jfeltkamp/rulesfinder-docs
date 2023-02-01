@@ -1,2 +1,0 @@
-# Reguläres arbeiten mit Rufi
-

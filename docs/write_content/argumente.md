@@ -8,7 +8,7 @@ Ein Argument besteht im wesentlichen aus zwei Teilen:
 - **These:** (Behauptung) Setzung einer Annahme um die es geht.
 - **Begründung:** Tatsachen oder sachliche Aussagen, welche die Annahme unterstützen.
 
-!!! type "Beispiel A"
+!!! example "Beispiel A"
 
     1. **These:** Für Schülerinnen und Schüler ist es vorteilhaft, wenn sie nachmittags einen Nebenjob annehmen könnten.
     2. **Begründung:** Denn so verdienen sie eigenes Geld und lernen den verantwortungsbewussten Umgang damit.
@@ -23,7 +23,7 @@ Sowohl die eigenen Argumente - als auch die Argumente anderer Teilnehmer müssen
 
 Wenn ein Argument auch im Bemühen um Verständnis unsinnig, willkürlich oder sogar widersprüchlich erscheint, ist es berechtigt oder sogar erforderlich, das Argument infrage zu stellen.
 
-!!! type "Beispiel D"
+!!! example "Beispiel D"
 
     Nebenjobs sind zusätzliche Verpflichtungen und wirken sich negativ auf die Erledigung der Hausaufgaben aus.
 
@@ -31,7 +31,7 @@ Warum, kann man denken, sollte es so sein, dass sich Nebenjobs negativ auf die E
 
 Um zu zeigen, dass ein Argument gültig ist, kann man einen logischen Beweis anführen. Man muss zeigen, dass das Argument zusammengesetzt ist aus Prämissen, deren Gültigkeit niemand anzweifeln würde. Die Prämissen im obigen Beispiel könnten lauten:
 
-!!! type "Beispiel E"
+!!! example "Beispiel E"
 
     1. Zusätzliche Verpflichtungen, wie Nebenjobs, kosten Zeit.
     2. Die Erledigung der Hausaufgaben kostet Zeit.
@@ -44,7 +44,7 @@ Wenn man der Geltung jeder dieser Prämissen zustimmt, dann wird man auch dem Ar
 
 Theoretisch könnte man Argumente auch so formulieren, dass die Prämissen einzeln aufgezählt und explizit zu einer Konklusion verknüpft werden. 
 
-!!! warning type "Beispiel F"
+!!! warning "Beispiel F"
 
     Wenn man anerkennt, dass Nebenjobs Zeit kosten, und dass ... und ... und ... , so folgt daraus, dass sich Nebenjobs negativ auf die Hausaufgaben auswirken.  
 
@@ -55,7 +55,7 @@ Fakten-Argumente berufen sich auf wissenschaftliche Forschungsergebnisse oder St
 
 Die Quellenangabe sollte Author, Titel, Seitenangabe, Verlag und Erscheinungsjahr beinhalten.
 
-!!! type "Beispiel G"
+!!! example "Beispiel G"
 
     "In Deutschland gelten 2,88 Millionen Kinder unter 18 Jahren sowie 1,55 Millionen junge Erwachsene
     (18 bis unter 25 Jahre) als armutsgefährdet (im Jahr 2021). Das heißt: Mehr als jedes fünfte Kind ist von
@@ -68,12 +68,5 @@ Der persönlichen Meinung wird in der Argumentation wenig Raum gegeben. In der A
 
 In RuFi werden weder Probleme, noch Regeln und Argumente mit ihrem Author als solchem direkt in Verbindung gebracht. - Wenn also die Worte „Ich, mein, mir, mich“ in einem Argument auftreten, wird niemand wissen, wer mit „Ich“ gemeint ist. Argumente gehören allen gemeinsam und können auch von allen berechtigten Teilnehmern bearbeitet und verbessert werden. Das ist so gewollt, um der Sachlichkeit den Vorrang zu geben.
 
-
-### Betroffenheit und Vertragsgemeinschaft:
-Verträge werden (zumindest in Deutschland) immer nach dem Rechtsgrundsatz von "Treu und Glauben" geschlossen (siehe BGB, §157). Das heißt, dass die Vertragsparteien sich gegenseitig versichern, über das eigene Interesse hinaus auch die berechtigten Interessen der anderen zu erfüllen. Ein Vertrag ist nicht erfüllt, wenn z.B. eine bezahlte Ware geliefert wurde, sondern nur dann, wenn die Ware den berechtigten Erwartungen des Käufers entspricht. Dieser Rechtsgrundsatz verpflichtet die Vertragsparteien, ihre Interessen sachlich, vollständig und präzise darzustellen, wie auch die Interessen der anderen gründlich zur Kenntnis zu nehmen.
-
-Wie relevant ein Argument unmittelbar erscheint, hängt oft vom Grad der persönlichen Betroffenheit ab. Betroffenheit bezieht sich dabei auf die Probleme, welche durch die thematisierten Regeln gelöst werden sollen. Wenn man von einem Problem nicht betroffen ist, sollte man der natürlichen Neigung zur oberflächlichen Betrachtung keinesfalls nachgeben, sondern sich dennoch aktiv um Verständnis bemühen und sich der Lösung dieser Probleme verpflichtet fühlen.
-
-Die Formulierung „berechtigte Erwartungen“ von den unberechtigten zu unterscheiden.
 
 Quellen: [studienkreis.de](https://www.studienkreis.de/deutsch/argumentative-texte-schreiben/)

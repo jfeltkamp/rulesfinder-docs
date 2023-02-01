@@ -7,7 +7,7 @@ Eine Problembeschreibung muss folgende Formelemente enthalten:
 - **Ursachen:** Mit welchen Ursachen ist das Problem verknüpft?
 - **Folgen:** Welche Folgen können sich in Zukunft zeigen, wenn das Problem nicht gelöst wird?
 
-!!! type "Beispiel A"
+!!! example "Beispiel A"
 
     Viele Mitarbeiter des Unternehmens (Betroffene) können sich das Essen in der Kantine nicht leisten (Erscheinung), sind deshalb regelmäßig schlecht verpflegt (Ursache), was dazu führt, dass sie bei der Arbeit erschöpft und unkonzentriert sind (Folgen).
 
@@ -19,7 +19,7 @@ Wenn eine umfangreichere Darstellung des Problems erforderlich ist, sollte der P
 ## Lösungsneutralität
 Ein Problem sollte immer Lösungsneutral formuliert werden, da es oft mehrere Problem-Lösungen gibt, welche gegeneinander abzuwägen sind, um die beste Lösung zu finden.
 
-!!! type "Beispiel B"
+!!! example "Beispiel B"
  
     **Falsch:**
     „Das Essen in der Kantine ist zu teuer ...“
