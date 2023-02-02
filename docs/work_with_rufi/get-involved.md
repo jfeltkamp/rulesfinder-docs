@@ -10,7 +10,7 @@ Wenn Sie neu in einem RuFi-Projekt sind, sollten Sie zunächst Ihr Benutzerprofi
 
 ## Lesen, verstehen und bewerten
 
-Ein guter Start in eine User-Session ist immer, sich zunächst auf den neuesten Stand zu bringen. Lesen Sie in Ruhe, was die anderen Teilnehmer in der Zwischenzeit geschrieben haben, und bewerten Sie die neuen oder aktualisierten Beiträge. 
+Ein guter Start in eine User-Session ist immer, sich zunächst auf den neuesten Stand zu bringen. Lesen Sie in Ruhe, was die anderen Teilnehmenden in der Zwischenzeit geschrieben haben, und bewerten Sie die neuen oder aktualisierten Beiträge. 
 Wenn Ihnen beim Lesen kleinere Fehler auffallen, prüfen Sie, ob Sie die erforderlichen Berechtigungen besitzen, die Fehler zu korrigieren, und wenn Ja, korrigieren Sie diese, wenn nicht, machen Sie einen kleinen Vermerk.
 
 !!! info "Neueste Beiträge lesen"
@@ -19,7 +19,7 @@ Wenn Ihnen beim Lesen kleinere Fehler auffallen, prüfen Sie, ob Sie die erforde
 
 ## Ergebnisoffenheit
 
-Wenn Sie klare Vorstellungen haben, wie die Dinge geregelt sein sollten, sind das grundsätzlich sehr gute Voraussetzungen für eine fruchtbare Zusammenarbeit. Doch bitte seien Sie nicht enttäuscht oder gar frustriert, wenn ihre Vorschläge nicht gleich so akzeptiert werden. Lassen Sie sich von den Vorschlägen, von den Argumenten und auch von der Kritik der anderen Teilnehmer überraschen und überzeugen, wenn sie richtig sind. Lassen Sie sich auf Experimente ein. - Meistens ist es wichtiger, eine Lösung gefunden zu haben, die von allen mitgetragen wird, als eine bessere Lösung zu haben, die nur _auf dem Papier_ steht.
+Wenn Sie klare Vorstellungen haben, wie die Dinge geregelt sein sollten, sind das grundsätzlich sehr gute Voraussetzungen für eine fruchtbare Zusammenarbeit. Doch bitte seien Sie nicht enttäuscht oder gar frustriert, wenn ihre Vorschläge nicht gleich so akzeptiert werden. Lassen Sie sich von den Vorschlägen, von den Argumenten und auch von der Kritik der anderen Teilnehmenden überraschen und überzeugen, wenn sie richtig sind. Lassen Sie sich auf Experimente ein. - Meistens ist es wichtiger, eine Lösung gefunden zu haben, die von allen mitgetragen wird, als eine bessere Lösung zu haben, die nur _auf dem Papier_ steht.
 
 !!! info "Offenheit für Kritik, Argumente und Experimente"
 
@@ -44,7 +44,7 @@ Wenn Sie neu in einem RuFi-Projekt sind, haben Sie sicherlich schon Ideen, welch
 
 Beachten Sie die logische Ordnung, dass das vorliegende **Problem immer der Ausgangspunkt aller Überlegungen ist**. 
 
-Lassen Sie den anderen Teilnehmern ausreichend Zeit, Ihre Problemdarstellung zu kommentieren oder zu bearbeiten, bevor Sie damit fortfahren, eine [Regelung](../write_content/regeln.md) zu erstellen, welche auf das beschriebene Problem bezug nimmt. 
+Lassen Sie den anderen Teilnehmenden ausreichend Zeit, Ihre Problemdarstellung zu kommentieren oder zu bearbeiten, bevor Sie damit fortfahren, eine [Regelung](../write_content/regeln.md) zu erstellen, welche auf das beschriebene Problem bezug nimmt. 
 
 ## Interessengemeinschaft
 Verträge werden (zumindest in Deutschland) immer nach dem Rechtsgrundsatz von "[Treu und Glauben](https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20875/treu-und-glauben/)" geschlossen (siehe [BGB, §157](https://www.gesetze-im-internet.de/bgb/__157.html)). Das heißt, dass die Vertragsparteien sich gegenseitig versichern, über das eigene Interesse hinaus auch die berechtigten Interessen der anderen zu erfüllen. Ein Vertrag ist nicht erfüllt, wenn z.B. eine bezahlte Ware geliefert wurde, sondern nur dann, wenn die Ware den _berechtigten Erwartungen des Käufers_ entspricht. 

@@ -28,7 +28,7 @@ Contra-Argumente sprechen in der Regel Aspekte an, welche in der These nicht hin
 
 Untersuchen wir das erste Contra-Argument: Warum wirken sich Nebenjobs negativ auf die Erledigung der Hausaufgaben aus? - Hauptsächlich wohl wegen der Inanspruchnahme von Zeit und Energie, die für die Hausaufgaben nicht mehr zur Verfügung steht. - Wenn man in die These eine Bedingung einführt, dass ein Nebenjob mit den Schulaufgaben nicht in Konflikt geraten darf, wäre das Contra-Argument entkräftet und könnte aus der Liste gestrichen werden.
 
-!!! example "Bespiel"
+!!! example "Beispiel"
 
     Schüler sollten die Möglichkeit haben, einen Nebenjob anzunehmen, sofern die Tätigkeit mit der Erledigung schulischer Pflichten vereinbar ist.
 

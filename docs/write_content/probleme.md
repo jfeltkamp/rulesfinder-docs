@@ -21,18 +21,17 @@ Ein Problem sollte immer Lösungsneutral formuliert werden, da es oft mehrere Pr
 
 !!! example "Beispiel B"
  
-    **Falsch:**
-    „Das Essen in der Kantine ist zu teuer ...“
-    
-    **Statt dessen:**
-    „Viele ... können sich das Essen nicht leisten ...“
+    **Statt:** „Das Essen in der Kantine ist zu teuer ...“<br>
+    **Besser:** „Viele ... können sich das Essen in der Kantine nicht leisten ...“
 
-Wenn das Problem darin bestünde, dass das Essen zu teuer ist, gäbe es dafür nur _eine_ Lösung, nämlich dass es günstiger werden muss. Aber möglicherweise sind die Essenspreise schon knapp kalkuliert. Das eigentliche Problem besteht ja auch darin, das sich viele das Essen nicht leisten können. Und für dieses Problem gibt es mehrere Lösungen, statt nur die Preise zu senken. Das Unternehmen könnte in Erwägung ziehen, die Preise für Mitarbeiter zu subventionieren; es könnte Essensgutscheine an Mitarbeiter verteilen oder das Essen für Mitarbeiter völlig kostenlos machen. Auch die Löhne für die Geringverdiener im Unternehmen anzuheben, wäre eine Lösungsansatz.
+Wenn das Problem darin bestünde, dass das Essen zu teuer ist, gäbe es dafür nur _eine_ Lösung, nämlich dass es günstiger werden muss. Aber möglicherweise sind die Essenspreise schon knapp kalkuliert. 
+
+Das eigentliche Problem besteht ja auch darin, dass sich viele das Essen nicht leisten können. Und für _dieses_ Problem gibt es mehrere Lösungen, statt nur die Preise zu senken. Das Unternehmen könnte in Erwägung ziehen, die Preise für Mitarbeiter zu subventionieren; es könnte Essensgutscheine an Mitarbeiter verteilen oder das Essen für Mitarbeiter völlig kostenlos anbieten. Auch die Löhne für die Geringverdiener im Unternehmen anzuheben, wäre eine Lösungsansatz.
 
 ## Berechtigtes Interesse
 In der Problembeschreibung sollte die _Berechtigung_ des Interesses zum Ausdruck kommen. Inwiefern liegt die Lösung eines Problems im Interesse der Vertragsgemeinschaft und ist dieser zuzumuten?  
 
-Die Formulierung „Viele Mitarbeiter des Unternehmens“ macht z.B. deutlich, dass es überhaupt eine Beziehung des Problems zum betreffenden Unternehmen gibt. Es macht außerdem implizit deutlich, dass das Problem mit täglicher Regelmäßigkeit auftritt, und dass die Preise in der Kantine mit den vom Unternehmen gezahlten Löhnen in Relation stehen. Die Folgen dieses Problems, dass sich die mangelnde Verpflegung der Mitarbeiter durch „Erschöpfung und Unkonzentriertheit“ auf die Arbeit auswirkt, zeigt deutlich an, dass das Unternehmen dieses Problem ernst nehmen sollte.
+Die Formulierung „Viele Mitarbeiter des Unternehmens“ macht z.B. deutlich, dass es überhaupt eine Beziehung des Problems zum betreffenden Unternehmen gibt. Es macht außerdem implizit deutlich, dass das Problem mit täglicher Regelmäßigkeit auftritt, und dass die Preise in der Kantine mit den Löhnen, die vom Unternehmen gezahlt werden, in Relation stehen. Die Folgen dieses Problems, dass sich die mangelnde Verpflegung der Mitarbeiter durch „Erschöpfung und Unkonzentriertheit“ auf die Arbeit auswirkt, zeigt deutlich an, dass das Unternehmen dieses Problem ernst nehmen sollte.
 
 
 

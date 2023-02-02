@@ -17,7 +17,7 @@ Die These gibt das Thema (Bsp.: Nebenjob) und die Richtung (Bsp.: vorteilhaft/na
 
 ## Prüfung und Bewertung von Argumenten
 
-Sowohl die eigenen Argumente - als auch die Argumente anderer Teilnehmer müssen geprüft und bewertet werden. Bewertungen sind Grundlage für die Gewichtung der Argumente und somit auch Grundlage für die Entscheidung, ob eine Regel gelten soll oder nicht. - Doch wie gelangt man zu einer gerechten und fundierten Bewertung?
+Sowohl die eigenen Argumente - als auch die Argumente anderer Teilnehmenden müssen geprüft und bewertet werden. Bewertungen sind Grundlage für die Gewichtung der Argumente und somit auch Grundlage für die Entscheidung, ob eine Regel gelten soll oder nicht. - Doch wie gelangt man zu einer gerechten und fundierten Bewertung?
 
 ### Logische Geltung von Argumenten
 
@@ -66,7 +66,7 @@ Artikel oder Statistiken aus Zeitschriften oder Tageszeitungen sind als Quelle p
 ### Meinungen
 Der persönlichen Meinung wird in der Argumentation wenig Raum gegeben. In der Argumentation geht es eben darum, Meinungen mit sachlich fundierten Argumenten zu ändern. 
 
-In RuFi werden weder Probleme, noch Regeln und Argumente mit ihrem Author als solchem direkt in Verbindung gebracht. - Wenn also die Worte „Ich, mein, mir, mich“ in einem Argument auftreten, wird niemand wissen, wer mit „Ich“ gemeint ist. Argumente gehören allen gemeinsam und können auch von allen berechtigten Teilnehmern bearbeitet und verbessert werden. Das ist so gewollt, um der Sachlichkeit den Vorrang zu geben.
+In RuFi werden weder Probleme, noch Regeln und Argumente mit ihrem Author als solchem direkt in Verbindung gebracht. - Wenn also die Worte „Ich, mein, mir, mich“ in einem Argument auftreten, wird niemand wissen, wer mit „Ich“ gemeint ist. Argumente gehören allen gemeinsam und können auch von allen berechtigten Teilnehmenden bearbeitet und verbessert werden. Das ist so gewollt, um der Sachlichkeit den Vorrang zu geben.
 
 
 Quellen: [studienkreis.de](https://www.studienkreis.de/deutsch/argumentative-texte-schreiben/)

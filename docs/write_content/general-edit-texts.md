@@ -40,10 +40,15 @@ Die Verwendung juristischer oder Kontext-bezogener Fachbegriffe, sollte einer ge
 Fremdworte aus anderen Sprachen (auch aus dem Lateinischen) sollten vermieden werden. Modeworte sollten vermieden werden.
 Prüfen Sie Ihre Wortwahl, ob ein Wort möglicherweise mehrere Bedeutungen hat, und ob diese Bedeutungsunterschiede Ursache von Missverständnissen werden kann.
 
-## Gleichstellung der Geschlechter:
+## Gleichstellung der Geschlechter
 Um die Gleichstellung aller Geschlechter zum Ausdruck zu bringen, sollten geschlechtsneutrale Personenbezeichnungen (Person, Mitglied, Hilfe, Kraft), geschlechtsneutrale Substantive (Prüfling, Flüchtling) oder geschlechtsneutrale Pluralbildungen (Angehörige, Sachverständige, Minderjährige) verwendet werden.
 
-Um die Verständlichkeit des vorgelesenen Textes nicht zu beeinträchtigen, sollte die sogenannte Sparschreibung vermieden und stattdessen die ausführliche Form verwendet werden. (Statt: „der/die BürgerIn“, „der/die SchülerInnen“, Besser: „Schülerinnen und Schüler“, „Bürger und Bürgerinnen“)
+Um die Verständlichkeit des vorgelesenen Textes nicht zu beeinträchtigen, sollte die sogenannte Sparschreibung vermieden und stattdessen die ausführliche Form verwendet werden. 
+
+!!! example "Sparschreibung vermeiden"
+
+    **Statt:** der/die BürgerIn, der/die SchülerInnen<br>
+    **Besser:** Schülerinnen und Schüler, Bürger und Bürgerinnen
 
 ## Gegliederter Textaufbau
 Die wichtigsten Aussagen sollten immer am Anfang eines Satzes oder eines Absatzes stehen.   
