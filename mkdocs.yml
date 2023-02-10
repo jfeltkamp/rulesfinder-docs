@@ -1,4 +1,4 @@
-site_name: 'RuFi - the RulesFinder'
+site_name: 'RuFi - The RulesFinder'
 nav:
   - 'Home':
       - 'Was ist RuFi': 'index.md'
@@ -21,6 +21,7 @@ theme:
   name: material
   locale: de
   logo: img/logo.svg
+  font: false
   features:
     - navigation.tabs
     - navigation.tabs.sticky
