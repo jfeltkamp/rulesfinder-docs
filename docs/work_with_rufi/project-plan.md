@@ -24,7 +24,7 @@ Bevor Sie mit dem Projekt wirklich starten, können Sie mit denjenigen, die sich
 
 Laden Sie die Teilnehmenden ein, die an den Verhandlungen teilnehmen sollen. Unsere Empfehlung dabei ist, dass alle Personen an den Verhandlungen teilnehmen können (oder hinreichend repräsentiert sind), die von dem ausgehandelten Vertrag oder Regelwerk betroffen sind, bzw. die darin festgelegten Regeln befolgen sollen. 
 
-Um eine nicht zu bewältigende Flut an Beträgen zu vermeiden, sollte die Teilnehmendenzahl nicht höher als 10-20 Personen sein. Andererseits werden nicht alle Teilnehmenden regelmäßig Beiträge beisteuern, weswegen die Teilnehmerzahl auch nicht zu klein sein sollte, damit die Verhandlungen zügig vorangehen.
+Um eine nicht zu bewältigende Flut an Beiträgen zu vermeiden, sollte die Teilnehmendenzahl nicht höher als 10-20 Personen sein. Andererseits werden nicht alle Teilnehmenden regelmäßig Beiträge beisteuern, weswegen die Teilnehmerzahl auch nicht zu klein sein sollte, damit die Verhandlungen zügig vorangehen.
 
 !!! info "Teilnehmende einladen"
 

@@ -1,10 +1,15 @@
 # RulesFinder documentation
 
-**"Was ist RulesFinder?"** RulesFinder [ru:ls|faɪnder] ist eine online-Software für das gemeinsame aushandeln von Verträgen<sup>1</sup>. Die Software unterstützt die Teilnahme aller Stakeholder<sup>2</sup> an Vertragsverhandlungen. Sie hilft mit bewährten heuristischen Methoden in jedem verhandelten Punkt optimierte Regelungen zu finden und vereinfacht faire Entscheidungen. Jede Regel oder Vertragsklausel kann einzeln verhandelt und optimiert werden, ohne dass die zu regelnden Problemlagen aus dem Blick geraten.
+**"Was ist RulesFinder?"** RulesFinder [ru:ls|faɪnder] ist eine online-Software für das gemeinsame aushandeln von Verträgen. Die Software unterstützt die Teilnahme aller Stakeholder[^1] an Vertragsverhandlungen. Sie hilft mit bewährten heuristischen Methoden in jedem verhandelten Punkt optimierte Regelungen zu finden und vereinfacht faire Entscheidungen. Jede Regel oder Vertragsklausel kann einzeln verhandelt und optimiert werden, ohne dass die zu regelnden Problemlagen aus dem Blick geraten.
 
-> <sup>1</sup> Als "Vertrag" bezeichnen wir hier - im weiteren Sinne - alle Texte, welche praktische Normen zu einem geschlossenen Regelwerk zusammenfassen. Also **Verträge** im engeren Sinne (z.B. Kauf-, Miet-, Arbeitsverträge), **Verordnungen** (z.B. Hausordnungen, Datenschutzverordnungen), **Vereinbarungen** (z.B. Satzungen, Programme) - und anderes (z.B. Netiquette-Regeln, Spielregeln, Baderegeln, Anstandsregeln).
+Als "Verträge" bezeichnen wir hier - im weitesten Sinne - alle Texte, welche praktische Normen zu einem geschlossenen Regelwerk zusammenfassen. Also:
 
-> <sup>2</sup> Als "Stakeholder" bezeichnen wir eine Person oder Gruppe, die ein berechtigtes Interesse an einem Vertrag hat. Man könnte diese zu Deutsch auch "Anspruchsberechtigte" nennen.
+* **Verträge** im engeren Sinne, z.B. Kauf-, Miet-, Arbeitsverträge, ...
+* **Verordnungen**, z.B. Hausordnungen, Datenschutzverordnungen
+* **Vereinbarungen**, z.B. Satzungen, Programme 
+* und auch Anderes, z.B. Netiquette, Spielregeln, Baderegeln, Anstandsregeln.
+
+[^1]: Als "Stakeholder" bezeichnen wir eine Person oder Gruppe, die ein berechtigtes Interesse an einem Vertrag hat. Man könnte diese zu Deutsch auch "Anspruchsberechtigte" nennen.
 
 ## Vorteile 
 
@@ -17,11 +22,11 @@
 
 ## Verfügbarkeit
 
-_RuFi selbst hosten - oder ein SaaS-Paket<sup>3</sup> buchen?_ - Diese Frage sollten Sie sich am Anfang stellen. RuFi ist zwar eine kostenlose Open-Source-Software; doch Kosten entstehen auch für die Bereitstellung eines Webservers und die Installation setzt technisches Know-How eines Webentwicklers oder Systemadministrators voraus. D.h. ein SaaS-Angebot<sup>3</sup> kann deutlich günstiger sein, als die Software selbst zu installieren, regelmäßige Back-Ups zu erstellen und Sicherheitsupdates einzupflegen.
+_RuFi selbst hosten - oder ein SaaS-Paket[^2] buchen?_ - Diese Frage sollten Sie sich am Anfang stellen. RuFi ist zwar eine kostenlose Open-Source-Software; doch Kosten entstehen auch für die Bereitstellung eines Webservers und die Installation setzt technisches Know-How eines Webentwicklers oder Systemadministrators voraus. D.h. ein SaaS-Angebot[^2] kann deutlich günstiger sein, als die Software selbst zu installieren, regelmäßige Back-Ups zu erstellen und Sicherheitsupdates einzupflegen.
 
-> <sup>3</sup> SaaS ist eine Abkürzung für _Software-as-a-Service_.
+[^2]: SaaS ist eine Abkürzung für _Software-as-a-Service_.
 
-Über **SaaS-Angebote**<sup>3</sup>  können Sie sich auf der Website [rulesfinder.org](https://rulesfinder.org) informieren.
+Über **SaaS-Angebote**[^2]  können Sie sich auf der Website [rulesfinder.org](https://rulesfinder.org) informieren.
 
 Eine **Installationsanleitung** für die Software [finden Sie hier](get-rufi/install-rufi). 
 
