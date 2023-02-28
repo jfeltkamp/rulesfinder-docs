@@ -34,17 +34,17 @@ Wenn Sie neu in einem RuFi-Projekt sind, haben Sie sicherlich schon Ideen, welch
 
     Ähnliche Inhalte, welche denselben Sachverhalt verschieden darstellen (sowohl Probleme, als auch Regeln und Argmente), sollten immer zu einem Beitrag zusammengefasst werden. Duplikate sollten unbedingt vermieden werden. 
 
-## PRA-Ordnung bei der Inhaltserstellung beachten
+## PRA-Ordnung (Problem, Regel, Argumentation) bei der Inhaltserstellung beachten
+
+_Problem_, _Regel_ und _Argumentation_ stellen eine sinnhafte Einheit dar, insofern als eine Regel immer auf ein Problem Bezug nimmt, und durch praktische Anweisungen die Folgen dieses Problems abwehren soll. Argumente dienen der Analyse genau dieses Verhältnisses von _Problem und Regel_, indem sie an jeweils einem Aspekt der Beziehung zeigen, inwiefern eine Regel _geeignet_ oder _ungeeignet_ ist, das Problem zu lösen.
+
+Folgen Sie diesem logischen Aufbau der Inhaltserstellung und beginnen Sie ein neues Thema immer mit einer Problemdarstellung. Beachten Sie die logische Ordnung, dass das vorliegende **Problem immer der Ausgangspunkt aller Überlegungen ist**. 
+
+Lassen Sie den anderen Teilnehmenden ausreichend Zeit, Ihre Problemdarstellung zu kommentieren oder zu bearbeiten, bevor Sie damit fortfahren, eine [Regelung](../write_content/regeln.md) zu erstellen, welche auf das beschriebene Problem bezug nimmt. 
 
 !!! info "Goldene Regel"
 
-    Eine Regel, die kein Problem löst, wird nicht benötigt und sollte ausgesetzt werden. 
-
-"PRA" steht für _Problem, Regelung und Argumentation_. Folgen Sie diesem logischen Aufbau der Inhaltserstellung und beginnen Sie ein neues Thema immer mit einer Problemdarstellung. Eine Hilfe, wie eine Problemdarstellung formal aufgebaut ist, finden Sie hier: [Problemdarstellung](../write_content/probleme.md).
-
-Beachten Sie die logische Ordnung, dass das vorliegende **Problem immer der Ausgangspunkt aller Überlegungen ist**. 
-
-Lassen Sie den anderen Teilnehmenden ausreichend Zeit, Ihre Problemdarstellung zu kommentieren oder zu bearbeiten, bevor Sie damit fortfahren, eine [Regelung](../write_content/regeln.md) zu erstellen, welche auf das beschriebene Problem bezug nimmt. 
+    Eine Regel, die kein Problem löst, ist sinnlos und sollte ausgesetzt werden. 
 
 ## Interessengemeinschaft
 Verträge werden (zumindest in Deutschland) immer nach dem Rechtsgrundsatz von "[Treu und Glauben](https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20875/treu-und-glauben/)" geschlossen (siehe [BGB, §157](https://www.gesetze-im-internet.de/bgb/__157.html)). Das heißt, dass die Vertragsparteien sich gegenseitig versichern, über das eigene Interesse hinaus auch die berechtigten Interessen der anderen zu erfüllen. Ein Vertrag ist nicht erfüllt, wenn z.B. eine bezahlte Ware geliefert wurde, sondern nur dann, wenn die Ware den _berechtigten Erwartungen des Käufers_ entspricht. 

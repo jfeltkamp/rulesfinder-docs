@@ -5,7 +5,7 @@ nav:
       - 'Get RuFi': 'get-rufi/install-rufi.md'
   - 'Mit RuFi starten':
       - 'Projekt-Planung': 'work_with_rufi/project-plan.md'
-      - 'Bedienungsanleitung': 'work_with_rufi/operation-manual.md'
+      - 'Nutzungsanleitung': 'work_with_rufi/operation-manual.md'
       - 'Vorgehensweise': 'work_with_rufi/get-involved.md'
   - 'Inhalte erstellen':
       - 'Allgemeines': 'write_content/general-edit-texts.md'
@@ -44,6 +44,7 @@ extra_css: [extra.css]
 markdown_extensions:
   - admonition
   - footnotes
+  - attr_list
 
 
 

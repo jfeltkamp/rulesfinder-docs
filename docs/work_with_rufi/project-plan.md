@@ -126,16 +126,33 @@ Wenn alle mit dem Ergebnis zufrieden sind, kann der Vertrag rechtskräftig werde
 
 Um eine **finale Version** zu erstellen, gibt es einen eigenen Entitätstyp _Version_, welcher technisch gesehen einen Schnappschuss aller Inhalte zum Zeitpunkt seiner Erstellung festhält, und eine strukturierte Version aller Regeln (ohne Probleme und Argumente) ausgibt.
 
-## Bearbeitungs-Zyklen
+## Langfristige Nutzung mit Bearbeitungs-Zyklen
 
-Je nach Art des Projektes mag es nach einer gewissen Zeit sinnvoll erscheinen, den Vertrag einer erneuten Bearbeitung zu unterziehen, um ihn z.B. den Strukturen einer sich ändernden Organisation oder Umwelt anzupassen. Möglicherweise ist sogar eine regelmäßige Auseinandersetzung mit den Zielen und der internen Ordnung gewünscht. 
+Je nach Art des Projektes kann es sinnvoll sein, das Regelwerk zu überarbeiten oder kontinuierlich damit zu arbeiten, um es z.B. den Strukturen einer sich ändernden Organisation oder Umwelt anzupassen. Für langfristige Vereinbarungen, z.B. mehrjährige Kooperationen mit komplexen Anforderungen, sollte von Anfang an die Möglichkeit von Updates eingeplant werden, damit Neuorientierungen und praktische Erfahrungen in das Regelwerk einfließen können.
 
-Darin liegt eine besondere Stärke des RulesFinder, denn alle wesentlichen Inhalte (Probleme und Argumente), welche jede einzelne Vertragsklausel begründen, sind nach wie vor gespeichert und können weiter verwendet und ergänzt werden.
+Oft ergibt sich erst aus der Anwendung von praktischen Regeln, dass diese nicht geeignet sind, die Probleme zu lösen, zu deren Zweck sie eingeführt wurden, dass sie sogar gegenteilige Effekte erzeugen oder andere, neue Probleme zutage fördern. Aus diesem Grund empfiehlt es sich, das Regelwerk beharrlich zu verbessern. Solche Anlässe bieten auch eine gute Grundlage für zielorientierte Diskussionen, worin das gemeinsame Vorhaben reflektiert und die Kooperation gestärkt werden kann.
 
-Neue Versionen des Vertrages können leicht erstellt werden und die ältere Vertragsversion ablösen.
+Darin liegt eine besondere Stärke des RulesFinder, denn alle wesentlichen Inhalte der Diskussion sind dauerhaft gespeichert und können weiterverwendet, verbessert und ergänzt werden.
 
-## Versionen
+Neue und bessere Versionen des Vertrages können leicht erstellt werden und ältere Vertragsversion ablösen.
 
-Mit der RuFi-Software können jederzeit neue Versionen des Vertrages erstellt werden. Das heißt jedoch nicht, dass diese automatisch rechtskräftig den alten Vertrag ablösen. Das Inkrafttreten einer neuen Vertragsversion ist immer an einen formelle Akte geknüpft, wie z.B. die Unterschrift des Vertrages.
+## Vertrags-Versionen
 
-Auch sollte bereits in der ersten Vertragsversion durch eine Abschluss-Klausel geregelt werden, wie der Vertrag in einer neuen Fassung in Kraft tritt und den alten Vertrag ablöst.
+Eine langfristige Nutzung der RuFi-Software wird mit Vertrags-Versionen und entsprechend fortlaufenden Versionsnummern ermöglicht, wobei spätere Versionen frühere Versionen ersetzen. Zu jeder Zeit können vollständige Zwischenstände oder Beschluss-fertige Versionen des Regelwerkes fixiert werden. Dafür wird lediglich eine Entität vom Typ "Version" erzeugt, welche automatisch einen Schnappschuss aller anderen Entitäten zu jenem Zeitpunkt festhält und dauerhaft speichert.[^1]
+
+[^1]: Technisch gesehen, wird keine Kopie der Daten festgehalten, sondern ein Datenarray mit den IDs aller Entitäten (Problems, Rules, Arguments, Sections, ...) und deren Revisions-IDs zum Zeitpunkt der Erzeugung einer Version erstellt und gespeichert.
+
+Zu einer Version gehört ein Kommentarfeld, in welches eingetragen werden kann:
+
+* zu welchem Anlass die neue Version erzeugt wurde
+* wer aktiv an der Sitzung teilgenommen hat
+* wer nicht an der Sitzung teilgenommen hat (und ggf. durch wen vertreten wird)
+* mit welchem Ergebnis die Abstimmung ausgefallen ist
+* ab wann die neue Version des Regelwerkes inkraft treten soll
+* usw.
+
+In der RuFi Standard-Konfiguration hat nur ein Moderator die Berechtigung, eine neue Version zu erzeugen.
+
+### Vertragsgeltung
+
+Es wird sehr empfohlen, die Geltung eines Vertrages und dessen überarbeiteten Versionen formell zu regeln, z.B. durch Geltungsklauseln, Unterschriften, Entlastungserklärungen, Versammlungsprotokolle usw. Andernfalls kann es zu unerwarteten Komplikationen in Rechtsfragen kommen. 
