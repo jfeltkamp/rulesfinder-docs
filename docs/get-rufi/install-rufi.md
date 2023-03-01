@@ -3,6 +3,14 @@
 This project template should provide a kickstart for managing your site
 dependencies with [Composer](https://getcomposer.org/).
 
+## Prerequisites
+
+You will need the following software on you webserver.
+
+* Apache 2.4.7+ oder Nginx 0.7+
+* PHP 7.4+
+* MySQL 5.7.8+, MariaDB 10.3.7+ oder PostgreSQL 10+
+
 ## Usage
 
 First you need to install [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx) and [Git](https://git-scm.com).
