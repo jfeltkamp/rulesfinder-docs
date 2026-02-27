@@ -12,13 +12,14 @@ nav:
       - 'Probleme': 'write_content/probleme.md'
       - 'Regeln': 'write_content/regeln.md'
       - 'Argumente': 'write_content/argumente.md'
-      - 'Pro/Contra Argumentation': 'write_content/pro-contra-argumentation.md'
+      - 'Pro/Contra-Argumentation': 'write_content/pro-contra-argumentation.md'
 
-copyright: "Copyright &copy; 2022-2023 Joachim Feltkamp"
+copyright: "Copyright &copy; 2022-2026 Joachim Feltkamp"
 extra:
   generator: false
 theme:
   name: material
+  language: de
   locale: de
   logo: img/logo.svg
   font: false

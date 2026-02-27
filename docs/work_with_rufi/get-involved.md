@@ -2,51 +2,52 @@
 
 ## Wie starte ich?
 
-Wenn Sie neu in einem RuFi-Projekt sind, sollten Sie zunächst Ihr Benutzerprofil vervollständigen. bevor Sie sich in die Inhalte vertiefen, diese bewerten oder bearbeiten. Auch Sie wollen gerne wissen, mit wem Sie sprechen.
+Wenn Du neu in einem RuFi-Projekt bist, solltest Du zunächst Dein Benutzerprofil vervollständigen. bevor Du Dich in die Inhalte vertiefst, diese bewertest oder bearbeitest. Auch Du möchtest gerne wissen, mit wem Du sprichst.
 
 !!! info "Benutzerprofil vervollständigen"
 
-    Klicken Sie im Header der Seite auf Ihren Namen, und dann auf "Profil bearbeiten". 
+    Klicke im Header der Seite auf Deinen Namen, und dann auf "Profil bearbeiten". 
 
 ## Lesen, verstehen und bewerten
 
-Ein guter Start in eine User-Session ist immer, sich zunächst auf den neuesten Stand zu bringen. Lesen Sie in Ruhe, was die anderen Teilnehmenden in der Zwischenzeit geschrieben haben, und bewerten Sie die neuen oder aktualisierten Beiträge. 
-Wenn Ihnen beim Lesen kleinere Fehler auffallen, prüfen Sie, ob Sie die erforderlichen Berechtigungen besitzen, die Fehler zu korrigieren, und wenn Ja, korrigieren Sie diese, wenn nicht, machen Sie einen kleinen Vermerk.
+Ein guter Start in eine User-Session ist immer, sich zunächst auf den neuesten Stand zu bringen. Lies in Ruhe, was die anderen Teilnehmenden in der Zwischenzeit geschrieben haben, und bewerte die neuen oder aktualisierten Beiträge. 
+Wenn Dir beim Lesen kleinere Fehler auffallen, prüfe, ob Sie die erforderlichen Berechtigungen besitzt, die Fehler zu korrigieren, und wenn Ja, korrigiere diese, wenn nicht, mache einen kleinen Vermerk.
 
 !!! info "Neueste Beiträge lesen"
     
-    Eine Übersicht der neuesten Beiträge finden Sie auf dem Dashboard. Auch in den Übersichten zu Problemen ode Regeln sind die neuen oder aktualisierten Beiträge mit dem Label "neu" gekennzeichnet.
+    Eine Übersicht der neuesten Beiträge findest Du auf dem Dashboard "Aktuelles". Auch in den Übersichten zu Problemen oder Regeln sind die neuen oder aktualisierten Beiträge mit dem Label "NEU" gekennzeichnet.
 
 ## Ergebnisoffenheit
 
-Wenn Sie klare Vorstellungen haben, wie die Dinge geregelt sein sollten, sind das grundsätzlich sehr gute Voraussetzungen für eine fruchtbare Zusammenarbeit. Doch bitte seien Sie nicht enttäuscht oder gar frustriert, wenn ihre Vorschläge nicht gleich so akzeptiert werden. Lassen Sie sich von den Vorschlägen, von den Argumenten und auch von der Kritik der anderen Teilnehmenden überraschen und überzeugen, wenn sie richtig sind. Lassen Sie sich auf Experimente ein. - Meistens ist es wichtiger, eine Lösung gefunden zu haben, die von allen mitgetragen wird, als eine bessere Lösung zu haben, die nur _auf dem Papier_ steht.
+Wenn Du klare Vorstellungen haben, wie die Dinge geregelt sein sollten, sind das grundsätzlich sehr gute Voraussetzungen für eine fruchtbare Zusammenarbeit. Doch sei nicht enttäuscht oder gar frustriert, wenn Deine Vorschläge nicht gleich so akzeptiert werden. Lass Dich von den Vorschlägen, von den Argumenten und auch von der Kritik der anderen Teilnehmenden überraschen und überzeugen, wenn sie richtig sind. Lassen Dich auf Experimente ein. - Meistens ist es wichtiger, eine Lösung gefunden zu haben, die von allen mitgetragen wird, als eine bessere Lösung zu haben, die nur _auf dem Papier_ steht.
 
 !!! info "Offenheit für Kritik, Argumente und Experimente"
 
-    Seien Sie offen für Vorschläge, für Argumente und auch für Kritik - und vertrauen Sie darauf, dass auf längere Sicht die beste Regelung gefunden wird. 
+    Bleib offen für Vorschläge, für Argumente und auch für Kritik - und vertraue darauf, dass auf längere Sicht die beste Regelung gefunden wird.
 
 
 ## Neue Beiträge einführen
 
-Wenn Sie neu in einem RuFi-Projekt sind, haben Sie sicherlich schon Ideen, welche Themen Sie ansprechen und in die Diskussion einbringen wollen. Doch bevor Sie einen neuen Inhalt in RuFi erstellen, sollten Sie unbedingt genau prüfen, ob es diesen Inhalt nicht schon gibt. - Sollte es diesen Inhalt in ähnlicher Form schon geben, können Sie sich einiges an Mühe sparen. Nutzen Sie die gewonnene Zeit, um diesen Inhalt zu prüfen, ob er vollständig ist und auch ihren Punkt abdeckt, ob er einfach und verständlich ausgedrückt ist, oder ob er noch gekürzt werden kann.
+Wenn Du neu in einem RuFi-Projekt bist, hast Du sicherlich schon Ideen, welche Themen Du ansprechen und in die Diskussion einbringen möchtest. Doch bevor Du einen neuen Inhalt in RuFi erstellst, solltest du unbedingt prüfen, ob es diesen Inhalt nicht schon gibt. - Sollte es diesen Inhalt in ähnlicher Form schon geben, kannst Du Dir und den Anderen einiges an Mühe sparen. Nutze die gewonnene Zeit, um diesen Inhalt zu prüfen, ob er vollständig ist und auch Deinen Punkt abdeckt, ob er einfach und verständlich ausgedrückt ist, oder ob er noch gekürzt werden kann.
 
 !!! info "Duplikate vermeiden"
 
-    Ähnliche Inhalte, welche denselben Sachverhalt verschieden darstellen (sowohl Probleme, als auch Regeln und Argmente), sollten immer zu einem Beitrag zusammengefasst werden. Duplikate sollten unbedingt vermieden werden. 
+    Ähnliche Inhalte, die denselben Sachverhalt verschieden darstellen (sowohl Probleme, als auch Regeln und Argmente), sollten immer zu einem Beitrag zusammengefasst werden. Duplikate sollten unbedingt vermieden werden. 
 
-## PRA-Ordnung (Problem, Regel, Argumentation) bei der Inhaltserstellung beachten
+## Ordnung bei der Inhaltserstellung beachten: Problem, Regel, Argumentation
 
-_Problem_, _Regel_ und _Argumentation_ stellen eine sinnhafte Einheit dar, insofern als eine Regel immer auf ein Problem Bezug nimmt, und durch praktische Anweisungen die Folgen dieses Problems abwehren soll. Argumente dienen der Analyse genau dieses Verhältnisses von _Problem und Regel_, indem sie an jeweils einem Aspekt der Beziehung zeigen, inwiefern eine Regel _geeignet_ oder _ungeeignet_ ist, das Problem zu lösen.
+_Problem_, _Regel_ und _Argumentation_ stellen eine sinnhafte Einheit dar, insofern, als eine Regel immer auf ein Problem Bezug nimmt und durch praktische Anweisungen die Folgen dieses Problems abwenden soll. Argumente dienen der Analyse genau dieses Verhältnisses von _Problem und Regel_, indem sie an jeweils einem Aspekt der Beziehung zeigen, inwiefern eine Regel _geeignet_ oder _ungeeignet_ ist, das Problem zu lösen.
 
-Folgen Sie diesem logischen Aufbau der Inhaltserstellung und beginnen Sie ein neues Thema immer mit einer Problemdarstellung. Beachten Sie die logische Ordnung, dass das vorliegende **Problem immer der Ausgangspunkt aller Überlegungen ist**. 
+Folge diesem logischen Aufbau der Inhaltserstellung und beginne ein neues Thema immer mit einer Problemdarstellung. Beachte die logische Ordnung, dass das **Problem immer der Ausgangspunkt aller Überlegungen ist**. 
 
-Lassen Sie den anderen Teilnehmenden ausreichend Zeit, Ihre Problemdarstellung zu kommentieren oder zu bearbeiten, bevor Sie damit fortfahren, eine [Regelung](../write_content/regeln.md) zu erstellen, welche auf das beschriebene Problem bezug nimmt. 
+Lass den anderen Teilnehmenden ausreichend Zeit, Deine Problemdarstellung zu kommentieren oder zu bearbeiten, bevor Du damit fortfährst, eine [Regelung](../write_content/regeln.md) zu erstellen, welche auf das beschriebene Problem Bezug nimmt. 
 
 !!! info "Goldene Regel"
 
-    Eine Regel, die kein Problem löst, ist sinnlos und sollte ausgesetzt werden. 
+    Eine Regel, die kein Problem löst, ist sinnlos und kann weg. 
 
 ## Interessengemeinschaft
+
 Verträge werden (zumindest in Deutschland) immer nach dem Rechtsgrundsatz von "[Treu und Glauben](https://www.bpb.de/kurz-knapp/lexika/lexikon-der-wirtschaft/20875/treu-und-glauben/)" geschlossen (siehe [BGB, §157](https://www.gesetze-im-internet.de/bgb/__157.html)). Das heißt, dass die Vertragsparteien sich gegenseitig versichern, über das eigene Interesse hinaus auch die berechtigten Interessen der anderen zu erfüllen. Ein Vertrag ist nicht erfüllt, wenn z.B. eine bezahlte Ware geliefert wurde, sondern nur dann, wenn die Ware den _berechtigten Erwartungen des Käufers_ entspricht. 
 
 Der Vertrag regelt nicht den Austausch von Dingen oder Leistungen, sondern die Anerkennung und Erfüllung von Interessen. 

@@ -1,11 +1,11 @@
 # Wie formuliere ich ein Argument?
 
 ## Die Form des Arguments
-Bei Entscheidungen, ob man einer Sache zustimmen oder diese ablehnen sollte, spielen Argumente eine wesentliche Rolle. Das Moment, welches die Entscheidungen in die eine oder andere Richtung bewegt, besteht in der Überzeugungskraft und Zahl der Argumente.
+Bei Entscheidungen, ob man einer Sache zustimmen oder diese ablehnen sollte, spielen Argumente eine Schlüsselrolle. Von der Überzeugungskraft und der Anzahl der Argumente hängt ab, ob sich die Entscheidung in die eine oder in die andere Richtung bewegt.
 
 Ein Argument besteht im wesentlichen aus zwei Teilen:
 
-- **These:** (Behauptung) Setzung einer Annahme um die es geht.
+- **These:** (Behauptung) Setzung einer Annahme, um die es geht.
 - **Begründung:** Tatsachen oder sachliche Aussagen, welche die Annahme unterstützen.
 
 !!! example "Beispiel A"
@@ -13,21 +13,21 @@ Ein Argument besteht im wesentlichen aus zwei Teilen:
     1. **These:** Für Schülerinnen und Schüler ist es vorteilhaft, wenn sie nachmittags einen Nebenjob annehmen könnten.
     2. **Begründung:** Denn so verdienen sie eigenes Geld und lernen den verantwortungsbewussten Umgang damit.
 
-Die These gibt das Thema (Bsp.: Nebenjob) und die Richtung (Bsp.: vorteilhaft/nachteilhaft, gut/schlecht) an, während die Begründung der eigentliche Kern des Argumentes ist, denn darin liegt das richtungsweisende Moment. 
+Die These gibt das Thema (Nebenjob) und die Richtung (vorteilhaft/nachteilig, gut/schlecht) an, während die Begründung der eigentliche Kern des Argumentes ist, denn darin liegt das richtungsweisende Moment. 
 
-## Prüfung und Bewertung von Argumenten
+## Prüfen und Bewerten von Argumenten
 
-Sowohl die eigenen Argumente - als auch die Argumente anderer Teilnehmenden müssen geprüft und bewertet werden. Bewertungen sind Grundlage für die Gewichtung der Argumente und somit auch Grundlage für die Entscheidung, ob eine Regel gelten soll oder nicht. - Doch wie gelangt man zu einer gerechten und fundierten Bewertung?
+Sowohl die eigenen Argumente als auch die Argumente anderer Beteiligter müssen geprüft und bewertet werden. Bewertungen sind Grundlage für die Gewichtung der Argumente und somit auch Grundlage für die Entscheidung, ob eine Regel gelten soll oder nicht. - Doch wie gelangt man zu einer gerechten und fundierten Bewertung?
 
 ### Logische Geltung von Argumenten
 
-Wenn ein Argument auch im Bemühen um Verständnis unsinnig, willkürlich oder sogar widersprüchlich erscheint, ist es berechtigt oder sogar erforderlich, das Argument infrage zu stellen.
+Wenn ein Argument auch im Bemühen um Verständnis unsinnig, willkürlich oder sogar widersprüchlich erscheint, sind die Beteiligten aufgefordert, das Argument berechtigterweise infrage zu stellen.
 
 !!! example "Beispiel D"
 
     Nebenjobs sind zusätzliche Verpflichtungen und wirken sich negativ auf die Erledigung der Hausaufgaben aus.
 
-Warum, kann man denken, sollte es so sein, dass sich Nebenjobs negativ auf die Erledigung der Hausaufgaben auswirken? Das könnte auch eine bloße, unfundierte Behauptung sein. Ebensogut könnte man das Gegenteil davon behaupten.
+Warum, kann man denken, sollten sich Nebenjobs negativ auswirken? Das könnte auch eine bloße Behauptung sein, für die es keine Belege gibt. Ebensogut könnte man das Gegenteil behaupten.
 
 Um zu zeigen, dass ein Argument gültig ist, kann man einen logischen Beweis anführen. Man muss zeigen, dass das Argument zusammengesetzt ist aus Prämissen, deren Gültigkeit niemand anzweifeln würde. Die Prämissen im obigen Beispiel könnten lauten:
 
@@ -46,27 +46,28 @@ Theoretisch könnte man Argumente auch so formulieren, dass die Prämissen einze
 
 !!! warning "Beispiel F"
 
-    Wenn man anerkennt, dass Nebenjobs Zeit kosten, und dass ... und ... und ... , so folgt daraus, dass sich Nebenjobs negativ auf die Hausaufgaben auswirken.  
+    _Wenn_ man anerkennt, dass Nebenjobs Zeit kosten, und dass ... und ... und ... , _so folgt daraus_, dass sich Nebenjobs negativ auf die Hausaufgaben auswirken.  
 
-Zwar ist diese Ausdrucksweise geeignet, die logische Geltung einer Aussage zu verdeutlichen. Ein gravierender Nachteil ist jedoch, dass die Verständlichkeit sehr darunter leidet. Klarheit und Verstehbarkeit des Argumentes sind wichtiger, als dessen logische Gültigkeit aufzuzeigen; besonders dann, wenn diese gar nicht angezweifelt wird. Wenn es notwendig sein sollte, die logische Geltung aufzuzeigen, kann dieses auch in einem nachgestellten Erklärungstext geschehen. 
+Zwar ist diese Ausdrucksweise geeignet, die logische Geltung einer Aussage zu verdeutlichen. Ein gravierender Nachteil ist jedoch, dass die Verständlichkeit sehr darunter leidet. Klarheit und Verständlichkeit des Argumentes sind wichtiger, als dessen logische Gültigkeit aufzuzeigen; besonders dann, wenn diese gar nicht angezweifelt wird. Wenn es notwendig sein sollte, die logische Geltung aufzuzeigen, kann dieses auch in einem nachgestellten Erklärungstext geschehen. 
 
 ### Fakten-Argumente
-Fakten-Argumente berufen sich auf wissenschaftliche Forschungsergebnisse oder Statistiken, welche unter Angabe der Quelle angeführt werden. Das Argument sollte möglichst direkt aus der Quelle zitieren und nicht aus dem Zusammenhang gerissen sein. Die zitierte wissenschaftliche Arbeit sollte den aktuellen Stand der Forschung wiedergeben und möglichst nicht kontrovers diskutiert werden.
+Sogenannte Fakten-Argumente berufen sich auf wissenschaftliche Forschungsergebnisse oder Statistiken, welche unter Angabe der Quelle angeführt werden. Das Argument sollte möglichst direkt aus der Quelle zitieren und nicht aus dem Zusammenhang gerissen sein. Die zitierte wissenschaftliche Arbeit sollte den aktuellen Stand der Forschung wiedergeben und möglichst nicht kontrovers diskutiert werden.
 
 Die Quellenangabe sollte Author, Titel, Seitenangabe, Verlag und Erscheinungsjahr beinhalten.
 
 !!! example "Beispiel G"
 
-    "In Deutschland gelten 2,88 Millionen Kinder unter 18 Jahren sowie 1,55 Millionen junge Erwachsene
-    (18 bis unter 25 Jahre) als armutsgefährdet (im Jahr 2021). Das heißt: Mehr als jedes fünfte Kind ist von
-    Armut bedroht." aus A. Funcke und S. Menne, "Factsheet Kinder und Jugenarmut in Deutschald" S.1, Bertelsmann Stiftung 2023
+    »Infolge einer Reihe von Schocks und struktureller Herausforderungen befand sich die deutsche Wirtschaft in den letzten beiden Jahren in einer Rezession. Es bestehen massive Investitionsbedarfe mit Blick auf den Erhalt und die Modernisierung öffentlicher Infrastruktur sowie im Kontext der Dekarbonisierung und der Wirtschafts- und Versorgungssicherheit.« 
+     
+    30.Subventionsbericht des Bundes 2023–2026«, S.5. Bundesministerium der Finanzen, Fassung: 10.09.2025.
 
-Artikel oder Statistiken aus Zeitschriften oder Tageszeitungen sind als Quelle problematisch, da die dargelegten Fakten oft nur Schlaglichter auf einzelne hervorstechende Ereignisse bieten, und ein verzerrtes Bild der Realität wiedergeben können. Oft beruhen die angebotenen Statistiken auf nicht nachprüfbaren oder nicht repräsentativen Umfragen oder Erhebungen.
+
+Artikel oder Statistiken aus Zeitschriften oder Tageszeitungen sind als Quelle problematisch, da die dargelegten Fakten oft nur Schlaglichter auf einzelne hervorstechende Ereignisse bieten und ein verzerrtes Bild der Realität wiedergeben können. Möglicherweise beruhen die angebotenen Statistiken auf nicht nachprüfbaren oder nicht repräsentativen Umfragen oder Erhebungen.
 
 ### Meinungen
 Der persönlichen Meinung wird in der Argumentation wenig Raum gegeben. In der Argumentation geht es eben darum, Meinungen mit sachlich fundierten Argumenten zu ändern. 
 
-In RuFi werden weder Probleme, noch Regeln und Argumente mit ihrem Author als solchem direkt in Verbindung gebracht. - Wenn also die Worte „Ich, mein, mir, mich“ in einem Argument auftreten, wird niemand wissen, wer mit „Ich“ gemeint ist. Argumente gehören allen gemeinsam und können auch von allen berechtigten Teilnehmenden bearbeitet und verbessert werden. Das ist so gewollt, um der Sachlichkeit den Vorrang zu geben.
+In der Argumentations-Software RulesFinder werden weder Probleme noch Regeln und Argumente mit ihrem Autor als Person direkt in Verbindung gebracht. - Wenn also die Worte »Ich, mein, mir, mich« in einem Argument auftreten, wird niemand wissen, wer mit »Ich« gemeint ist. Argumente gehören allen gemeinsam und können auch von allen berechtigten Teilnehmenden bearbeitet und verbessert werden. Das ist gewollt, um der Sachlichkeit den Vorrang vor persönlichen Vorlieben und Denkweisen zu geben.
 
 
 Quellen: [studienkreis.de](https://www.studienkreis.de/deutsch/argumentative-texte-schreiben/)
