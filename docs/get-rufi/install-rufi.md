@@ -46,7 +46,7 @@ When installing the given `composer.json` some tasks are taken care of:
 
 ## Installing RulesFinder
 
-Create project will install RulesFinder into the docroot direcrory inside of RulesFinder. You can now install RulesFinder as you would with any Drupal 9 site. See: [Drupal installation guide](https://www.drupal.org/node/1839310).
+Create project will install RulesFinder into the docroot direcrory inside of RulesFinder. You can now install RulesFinder as you would with any Drupal 11 site. See: [Drupal installation guide](https://www.drupal.org/node/1839310).
 
 ## Updating RulesFinder
 
@@ -76,3 +76,4 @@ Follow the steps below to update your RulesFinder files.
    of a [three-way merge tool such as kdiff3](http://www.gitshah.com/2010/12/how-to-setup-kdiff-as-diff-tool-for-git.html). This setup is not necessary if your changes are simple;
    keeping all of your modifications at the beginning or end of the file is a
    good strategy to keep merges easy.
+1. Root the host into the ```docroot``` folder.
