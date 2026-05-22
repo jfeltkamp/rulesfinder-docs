@@ -7,9 +7,9 @@ dependencies with [Composer](https://getcomposer.org/).
 
 You will need the following software on you webserver.
 
-* Apache 2.4.7+ oder Nginx 0.7+
-* PHP 7.4+
-* MySQL 5.7.8+, MariaDB 10.3.7+ oder PostgreSQL 10+
+* Apache 2.4.7+ oder Nginx 1.1+
+* PHP 8.3 - 8.4
+* MySQL 8.0+, MariaDB 10.6+ oder PostgreSQL 16+
 
 ## Usage
 
