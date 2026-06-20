@@ -1,0 +1,10 @@
+:root {
+    --md-primary-fg-color: #380fee;
+    --md-primary-fg-color--light: #765bee;
+    --md-primary-fg-color--dark:  #380fee;
+}
+
+.wy-table-responsive table td,
+.wy-table-responsive table th {
+    white-space: initial;
+}
