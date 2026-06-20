@@ -1,6 +1,6 @@
 site_name: 'RuFi - The RulesFinder'
 nav:
-  - 'Home':
+  - 'Start':
       - 'Was ist RuFi': 'index.md'
       - 'Get RuFi': 'get-rufi/install-rufi.md'
   - 'Mit RuFi starten':

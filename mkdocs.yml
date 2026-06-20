@@ -1,18 +1,18 @@
 site_name: 'RuFi - The RulesFinder'
 nav:
   - 'Home':
-      - 'Was ist RuFi': 'index.md'
+      - 'What is RuFi': 'index.md'
       - 'Get RuFi': 'get-rufi/install-rufi.md'
-  - 'Mit RuFi starten':
-      - 'Projekt-Planung': 'work_with_rufi/project-plan.md'
-      - 'Nutzungsanleitung': 'work_with_rufi/operation-manual.md'
-      - 'Vorgehensweise': 'work_with_rufi/get-involved.md'
-  - 'Inhalte erstellen':
-      - 'Allgemeines': 'write_content/general-edit-texts.md'
-      - 'Probleme': 'write_content/probleme.md'
-      - 'Regeln': 'write_content/regeln.md'
-      - 'Argumente': 'write_content/argumente.md'
-      - 'Pro/Contra-Argumentation': 'write_content/pro-contra-argumentation.md'
+  - 'Start with RuFi':
+      - 'Project Planning': 'work_with_rufi/project-plan.md'
+      - 'Instructions for usage': 'work_with_rufi/operation-manual.md'
+      - 'Proceeding': 'work_with_rufi/get-involved.md'
+  - 'Create Content':
+      - 'General': 'write_content/general-edit-texts.md'
+      - 'Problems': 'write_content/probleme.md'
+      - 'Rules': 'write_content/regeln.md'
+      - 'Arguments': 'write_content/argumente.md'
+      - 'PRO/CON Argumentation': 'write_content/pro-contra-argumentation.md'
 
 docs_dir: docs/en
 
