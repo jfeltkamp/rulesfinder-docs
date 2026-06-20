@@ -1,4 +1,4 @@
-# RulesFinder documentation
+# RulesFinder Dokumentation (Deutsch)
 
 ## Was ist RulesFinder?
 
@@ -30,7 +30,7 @@ _RuFi selbst hosten - oder ein Software-as-a-Service-Paket[^2] buchen?_ (Abgekü
 
 Über **SaaS-Angebote**[^2] könnt Ihr Euch auf der Website [rulesfinder.org](https://rulesfinder.org) informieren.
 
-Eine **Installationsanleitung** für die Software [findet Ihr hier](get-rufi/install-rufi). 
+Eine **Installationsanleitung** für die Software [findet Ihr hier](de/get-rufi/install-rufi). 
 
 ## Technische Angaben
 

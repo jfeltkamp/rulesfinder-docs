@@ -14,7 +14,7 @@ nav:
       - 'Argumente': 'write_content/argumente.md'
       - 'Pro/Contra-Argumentation': 'write_content/pro-contra-argumentation.md'
 
-docs_dir: docs/en
+docs_dir: docs/de
 
 copyright: "Copyright &copy; 2022-2026 Joachim Feltkamp"
 extra:
@@ -27,7 +27,7 @@ extra:
       lang: de
 theme:
   name: material
-  language: en
+  language: de
   logo: img/logo.svg
   font: false
   features:

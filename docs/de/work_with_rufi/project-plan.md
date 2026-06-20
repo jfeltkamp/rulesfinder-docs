@@ -60,7 +60,7 @@ Die Moderation kann beim Projektstart von den InitiatorInnen oder Projekt-Verant
 
 ## Einweisung der Teilnehmenden in die Software-Nutzung
 
-Mach die neuen Teilnehmenden auf diese Dokumentation aufmerksam, insbesondere auf die [Vorgehensweise](../work_with_rufi/get-involved/) und die [Bedienungsanleitung](../work_with_rufi/operation-manual/), wo die wichtigsten Regeln kompakt zusammengefasst sind.
+Mach die neuen Teilnehmenden auf diese Dokumentation aufmerksam, insbesondere auf die [Vorgehensweise](/get-involved/) und die [Bedienungsanleitung](/operation-manual/), wo die wichtigsten Regeln kompakt zusammengefasst sind.
 
 Besprich die Vorgehensweise und Bedienungsanleitung und stell sicher, dass niemand aus technischen Gründen abgehängt wird. Wenn sich dennoch jemand überfordert fühlt, ist es möglicherweise ratsam, diesen Nutzer zunächst mit der _Beginner_-Rolle starten zu lassen, welche eher eine Beobachterrolle ist und die Möglichkeit bietet, an Bewertungen und Abstimmungen teilzunehmen. 
 

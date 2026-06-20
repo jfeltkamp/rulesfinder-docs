@@ -10,11 +10,15 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.9"
-
-mkdocs:
-  configuration: mkdocs.yml
-
-# Optionally declare the Python requirements required to build your docs
-python:
-  install:
-    - requirements: docs/requirements.txt
+  commands:
+    # Set up the virtual environment
+    - python -m venv $READTHEDOCS_VIRTUALENV_PATH
+    # Install dependencies
+    - $READTHEDOCS_VIRTUALENV_PATH/bin/python -m pip install -r requirements.txt
+    # Dynamically build based on the target language of the RTD project
+    - |
+      if [ "$READTHEDOCS_LANGUAGE" = "de" ]; then
+        $READTHEDOCS_VIRTUALENV_PATH/bin/mkdocs build --config-file mkdocs.de.yml --site-dir $READTHEDOCS_OUTPUT/html
+      else
+        $READTHEDOCS_VIRTUALENV_PATH/bin/mkdocs build --config-file mkdocs.yml --site-dir $READTHEDOCS_OUTPUT/html
+      fi
